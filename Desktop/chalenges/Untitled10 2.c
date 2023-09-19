@@ -5,7 +5,7 @@ int main () {
 
 char input [50];
 printf ("enter any date as follows : 15/09/2012 : \n");
-scanf("%s"input);
+scanf("%s",input);
 
 printf ("%c %c",input[0],input[1]);
 
